@@ -1,0 +1,95 @@
+[
+  {
+    "empName": "Aditi",
+    "empId": 1,
+    "empAge": 22,
+    "empGender": "female",
+    "isMarried": false,
+    "empSalary": 55000.5,
+    "hireDate": "2022-03-15",
+    "empSkills": ["html", "Python", "SQL"],
+    "address": {
+      "street": "xyz lanet",
+      "city": "dvg",
+      "state": "karnataka",
+      "zipcode": "12345"
+    },
+    "hasInsurance": true,
+    "emergencyContacts": [
+      { "name": "aditya", "relationship": "sibling", "phone": "555-1234" }
+    ]
+  },
+  {
+    "empName": "Rashmi",
+    "empId": 2,
+    "empAge": 28,
+    "empGender": "female",
+    "isMarried": true,
+    "empSalary": 60000.75,
+    "hireDate": "2021-09-20",
+    "empSkills": ["C++", "JavaScript", "HTML", "CSS"],
+    "address": {
+      "street": "ggg lane",
+      "city": "bngl",
+      "state": "karnataka",
+      "zipcode": "67890"
+    },
+    "hasInsurance": false,
+    "supervisor": null
+  },
+  {
+    "empName": "Priya",
+    "empId": 3,
+    "empAge": 35,
+    "empGender": "female",
+    "isMarried": true,
+    "empSalary": 70000.25,
+    "hireDate": "2023-01-10",
+    "empSkills": ["Python", "Machine Learning", "Data Analysis"],
+    "address": {
+      "street": "789 lane",
+      "city": "hubli",
+      "state": "karnataka",
+      "zipcode": "54321"
+    },
+    "hasInsurance": true,
+    "projectStartDate": null
+  },
+  {
+    "empName": "Rahul",
+    "empId": 4,
+    "empAge": 32,
+    "empGender": "male",
+    "isMarried": false,
+    "empSalary": 48000.9,
+    "hireDate": "2022-07-05",
+    "empSkills": ["Java", "Spring Framework", "MySQL"],
+    "address": {
+      "street": "101 Cedar Rd",
+      "city": "dharwad",
+      "state": "karnataka",
+      "zipcode": "98765"
+    },
+    "hasInsurance": false,
+    "notes": "Employee is allergic to peanuts."
+  },
+  {
+    "empName": "Samarth",
+    "empId": 5,
+    "empAge": 27,
+    "empGender": "male",
+    "isMarried": false,
+    "empSalary": 60000.0,
+    "hireDate": "2023-05-12",
+    "empSkills": ["JavaScript", "React", "Node.js"],
+    "address": {
+      "street": "202 Maple Lane",
+      "city": "dadar",
+      "state": "mumbai",
+      "zipcode": "23456"
+    },
+    "hasInsurance": true,
+    "specialAccommodations": ["Wheelchair access required"]
+  }
+]
+
